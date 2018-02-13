@@ -11,7 +11,7 @@ The package editheme provides a collection of color palettes designed to match t
 
 ### Install
 
-To install the package from Gihub you can use devtools:
+To install the package from Github you can use devtools:
 
 ``` r
 #editheme use the package styles to customize base plots
